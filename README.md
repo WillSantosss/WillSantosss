@@ -5,7 +5,7 @@
 * ### Games :space_invader::video_game:
 * ### Astronomia :telescope::milky_way:
 
-## Quer saber mais sore mim? Acesse meu [Portifólio](https://willianmonteiro.me/index.html)
+## Quer saber mais sobre mim? Acesse meu [Portifólio](https://willianmonteiro.me/index.html)
 
 
 <div align="center">
