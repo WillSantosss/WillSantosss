@@ -1,4 +1,12 @@
-### Olaaá, eu sou o Willian
+## Olaaá, eu sou o Willian
+
+* ### Desenvolvedor Front-End :computer::coffee:
+* ### Estudante :mortar_board::books:
+* ### Games :space_invader::video_game:
+* ### Astronomia :telescope::milky_way:
+
+## Quer saber mais sore mim? Acesse meu [Portifólio](https://willianmonteiro.me/index.html)
+
 
 <div align="center">
   <a href="https://github.com/WillSantosss">
