@@ -1,4 +1,4 @@
-## Hello  Mundo!👋
+## Hello Word!👋
 
 * ### Desenvolvedor Front-End :computer::coffee:
 * ### Estudante :mortar_board::books:
