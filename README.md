@@ -1,11 +1,11 @@
-## Olá Mundo! Eu sou o Willian😄👋
+## Olá Mundo! Eu sou o Willian😄👋🏻
 
 * ### Desenvolvedor Front-End :computer::coffee:
 * ### Estudante :mortar_board::books:
 * ### Games :space_invader::video_game:
 * ### Astronomia :telescope::milky_way:
 
-## Quer saber mais sobre mim? Acesse meu portifólio 👨‍💻  [willianmonteiro.me](https://willianmonteiro.me/index.html)
+## Quer saber mais sobre mim? Acesse meu portifólio 👨🏻‍💻  [willianmonteiro.me](https://willianmonteiro.me/index.html)
 
 ##
 
