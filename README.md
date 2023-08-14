@@ -1,4 +1,4 @@
-## Olá, Mundo! Eu sou o Willian😄👋🏻
+## Olá, Eu sou o Willian😄👋🏻
 
 * ### Desenvolvedor Front-End :computer::coffee:
 * ### Estudante :mortar_board::books:
