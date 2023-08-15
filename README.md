@@ -1,11 +1,11 @@
-## Olá e bem-vindo! Eu sou o Willian
+## Olá e bem-vindo! Eu sou o Willian.
 
-* ### Desenvolvedor Front-End :computer::coffee:
+* ### Desenvolvedor Front-End. :computer::coffee:
 * ### Sempre em busca constante de conhecimento, como uma pessoa dedicada que busca melhorar a cada dia. :mortar_board::books:
 * ### Nas horas vagas, explorando o vasto mundo dos Games com entusiasmo. :space_invader::video_game:
 * ### Como curiosidade pessoal, profundamente imerso nas maravilhas da Astronomia, desbravando os segredos fascinantes do cosmos. :telescope::milky_way:
 
-* ## Se você deseja conhecer mais sobre mim e minha trajetória, convido você a explorar meu portfólio em [willian.social](https://willian.social/)👨🏻‍💻
+* ### Se você deseja conhecer mais sobre mim e minha trajetória, convido você a explorar meu portfólio em [willian.social](https://willian.social/)👨🏻‍💻
 
 
 
