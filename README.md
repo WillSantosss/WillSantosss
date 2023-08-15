@@ -5,7 +5,7 @@
 * ### Nas horas vagas, explorando o vasto mundo dos Games com entusiasmo. :space_invader::video_game:
 * ### Como curiosidade pessoal, profundamente imerso nas maravilhas da Astronomia, desbravando os segredos fascinantes do cosmos. :telescope::milky_way:
 
-* ## Gostaria de saber mais sobre mim? Visite meu portfólio [willian.social](https://willian.social/)👨🏻‍💻
+* ## Se você deseja conhecer mais sobre mim e minha trajetória, convido você a explorar meu portfólio em [willian.social](https://willian.social/)👨🏻‍💻
 
 
 
