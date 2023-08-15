@@ -1,9 +1,14 @@
-## Olá, Eu sou o Willian😄👋🏻
+## "Olá e bem-vindo! Eu sou o Willian
 
 * ### Desenvolvedor Front-End :computer::coffee:
-* ### Estudante :mortar_board::books:
-* ### Games :space_invader::video_game:
-* ### Astronomia :telescope::milky_way:
+* ### Sempre em busca constante de conhecimento, como uma pessoa dedicada que busca melhorar a cada dia. :mortar_board::books:
+* ### Nas horas vagas, explorando o vasto mundo dos Games com entusiasmo. :space_invader::video_game:
+* ### Como curiosidade pessoal, profundamente imerso nas maravilhas da Astronomia, desbravando os segredos fascinantes do cosmos. :telescope::milky_way:
+
+* ## Gostaria de saber mais sobre mim? Visite meu portfólio [willian.social](https://willian.social/)👨🏻‍💻
+
+
+
 
 
 ##
