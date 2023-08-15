@@ -1,4 +1,4 @@
-## "Olá e bem-vindo! Eu sou o Willian
+## Olá e bem-vindo! Eu sou o Willian
 
 * ### Desenvolvedor Front-End :computer::coffee:
 * ### Sempre em busca constante de conhecimento, como uma pessoa dedicada que busca melhorar a cada dia. :mortar_board::books:
