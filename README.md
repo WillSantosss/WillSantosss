@@ -7,9 +7,14 @@
 
 * ### Se você deseja conhecer mais sobre mim e minha trajetória, convido você a explorar meu portfólio em [willian.social](https://willian.social/)👨🏻‍💻
 
+#
 
-
-##
+<div align="center">
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillSantosss&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+  
+#
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,9 +28,9 @@
   <img align="center" alt="Will-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
   
-  ##
+  #
   
-  ##
+
   
   <div>
     <a href = "mailto:willianmonteiro.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
