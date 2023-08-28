@@ -11,7 +11,7 @@
 
 <div align="center">
 <a href="https://github.com/WillSantosss">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillSantosss&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="160em" src="https://card-repository-aapb.vercel.app/api/top-langs/?username=WillSantosss&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 #
