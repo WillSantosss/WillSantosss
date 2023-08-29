@@ -1,4 +1,11 @@
-## Olá e bem-vindo! Eu sou o Willian.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=0.1&pause=1000&color=8A63F1&center=true&width=435&height=40&lines=Willian+Monteiro" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=8A63F1&center=true&width=600&height=40&lines=Desenvolvedor+Front-end;O+conhecimento+%C3%A9+uma+jornada+sem+fim!%E2%9C%A8" alt="O conhecimento é uma jornada sem fim!" /></a>
+</p>
 
 * ### Desenvolvedor Front-End. :computer::coffee:
 * ### Sempre em busca constante de conhecimento, como uma pessoa dedicada que busca melhorar a cada dia. :mortar_board::books:
@@ -11,7 +18,7 @@
 
 <div align="center">
 <a href="https://github.com/WillSantosss">
-<img loading="lazy" height="160em" src="https://card-repository-aapb.vercel.app/api/top-langs/?username=WillSantosss&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://card-repository-aapb.vercel.app/api/top-langs/?username=WillSantosss&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 #
