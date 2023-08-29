@@ -18,7 +18,7 @@
 
 <div align="center">
 <a href="https://github.com/WillSantosss">
-<img loading="lazy" height="180em" src="https://card-repository-aapb.vercel.app/api/top-langs/?username=WillSantosss&layout=compact&langs_count=7&theme=dark"/>
+<img alt="WillSantosss Top Languages" loading="lazy" height="200em" src="https://card-repository-aapb.vercel.app/api/top-langs/?username=WillSantosss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=8A63F1FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff""/>
 </div>
   
 #
