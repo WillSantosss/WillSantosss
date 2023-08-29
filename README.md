@@ -44,4 +44,18 @@
     <a href="https://www.linkedin.com/in/wmds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/WillSantosss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </div>
+
+
+  <p align="center" > 
+  <a href="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake-dark.svg" 
+       alt"Check out my commit history!" />
+  </a>
+  
+  <a href="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake.svg" 
+         alt"Check out my commit history!" />
+  </a>
+
+  </p>
   
