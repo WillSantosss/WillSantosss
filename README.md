@@ -50,7 +50,7 @@
  </a>
  
  <a href="https://github.com/WillSantosss" alt="Portfolio">
-  <img width="122px" src="https://img.shields.io/badge/github-rgb(25, 27, 30)?style=for-the-badge&logo=github&logoColor=rgb(138, 99,241, 1)&link=https://github.com/WillSantosss"/>
+  <img width="125px" src="https://img.shields.io/badge/github-rgb(25, 27, 30)?style=for-the-badge&logo=github&logoColor=rgb(138, 99,241, 1)&link=https://github.com/WillSantosss"/>
  </a>
 
  </p>
