@@ -46,7 +46,7 @@
  </a>
 
  <a href="mailto:willianmonteiro.me@gmail.com" alt="Gmail">
-  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(138, 99,241, 1)&link=mailto:mailto:willianmonteiro.me@gmail.com"/> 
+  <img width="115px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(138, 99,241, 1)&link=mailto:mailto:willianmonteiro.me@gmail.com"/> 
  </a>
  
  <a href="https://github.com/WillSantosss" alt="Portfolio">
