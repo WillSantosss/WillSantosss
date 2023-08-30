@@ -49,8 +49,8 @@
   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(138, 99,241, 1)&link=mailto:mailto:willianmonteiro.me@gmail.com"/> 
  </a>
  
- <a href="https:/willian.social/" alt="Portfolio">
-  <img width="122px" src="https://img.shields.io/badge/github-rgb(25, 27, 30)?style=for-the-badge&logo=github&logoColor=rgb(138, 99,241, 1)&link=https:/willian.social/"/>
+ <a href="https://github.com/WillSantosss" alt="Portfolio">
+  <img width="122px" src="https://img.shields.io/badge/github-rgb(25, 27, 30)?style=for-the-badge&logo=github&logoColor=rgb(138, 99,241, 1)&link=https://github.com/WillSantosss"/>
  </a>
 
  </p>
