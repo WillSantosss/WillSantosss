@@ -8,8 +8,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&duration=4000&pause=1000&color=8A63F1&center=true&width=740&lines=Desenvolvedor+Front-end;O+conhecimento+%C3%A9+uma+jornada+sem+fim!%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
-  ![](https://github.com/WillSantosss/Imgs/blob/master/DripBanner-github-invert.png) 
-
 * ### Sempre em busca constante de conhecimento, como uma pessoa dedicada que busca melhorar a cada dia. :mortar_board::books:
 * ### Nas horas vagas, explorando o vasto mundo dos Games com entusiasmo. :space_invader::video_game:
 * ### Como curiosidade pessoal, profundamente imerso nas maravilhas da Astronomia, desbravando os segredos fascinantes do cosmos. :telescope::milky_way:
@@ -41,23 +39,30 @@
   #
   
 
-  
-  <div>
-    <a href = "mailto:willianmonteiro.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/wmds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/WillSantosss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  </div>
+  <p align="left">
+ 
+ <a href="https://www.linkedin.com/in/wmds/" alt="Linkedin">
+  <img width="145px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(138, 99,241, 1)&link=https://www.linkedin.com/in/wmds/"/> 
+ </a>
+
+ <a href="mailto:willianmonteiro.me@gmail.com" alt="Gmail">
+  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(138, 99,241, 1)&link=mailto:mailto:willianmonteiro.me@gmail.com"/> 
+ </a>
+ 
+ <a href="https:/willian.social/" alt="Portfolio">
+  <img width="122px" src="https://img.shields.io/badge/github-rgb(25, 27, 30)?style=for-the-badge&logo=github&logoColor=rgb(138, 99,241, 1)&link=https:/willian.social/"/>
+ </a>
+
+ </p>
 
 
   <p align="center" > 
   <a href="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake-dark.svg" 
-       alt"Check out my commit history!" />
+    <img src="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake-dark.svg"/>
   </a>
   
   <a href="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake.svg" 
-         alt"Check out my commit history!" />
+    <img src="https://raw.githubusercontent.com/willsantosss/willsantosss/media/github-contribution-grid-snake.svg"/>
   </a>
   </p>
 
