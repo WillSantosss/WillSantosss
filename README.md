@@ -12,7 +12,7 @@
 * ### Nas horas vagas, explorando o vasto mundo dos Games com entusiasmo. :space_invader::video_game:
 * ### Como curiosidade pessoal, profundamente imerso nas maravilhas da Astronomia, desbravando os segredos fascinantes do cosmos. :telescope::milky_way:
 
-* ### Se você deseja conhecer mais sobre mim e minha trajetória, convido você a explorar meu portfólio em [willian.social](https://willian.social/)👨🏻‍💻
+* ### Se você deseja conhecer mais sobre mim e minha trajetória, convido você a explorar meu portfólio em [willian.social](https://willian.social/)💻.
 
 #
 
@@ -41,7 +41,7 @@
 
   <p align="left">
  
- <a href="https://www.linkedin.com/in/wmds/" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/wmds/" alt="Linkedin" target="_blank">
   <img width="145px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(138, 99,241, 1)&link=https://www.linkedin.com/in/wmds/"/> 
  </a>
 
