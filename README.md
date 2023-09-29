@@ -8,9 +8,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&duration=4000&pause=1000&color=8A63F1&center=true&width=740&lines=Desenvolvedor+Front-end;O+conhecimento+%C3%A9+uma+jornada+sem+fim!%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
-* ### Sempre em busca constante de conhecimento, como uma pessoa dedicada que busca melhorar a cada dia. :mortar_board::books:
-* ### Nas horas vagas, explorando o vasto mundo dos Games com entusiasmo. :space_invader::video_game:
-* ### Como curiosidade pessoal, profundamente imerso nas maravilhas da Astronomia, desbravando os segredos fascinantes do cosmos. :telescope::milky_way:
+ ### Sempre em busca constante de conhecimento, como uma pessoa dedicada que busca melhorar a cada dia. :mortar_board::books:
+ ### Nas horas vagas, explorando o vasto mundo dos Games com entusiasmo. :space_invader::video_game:
+ ### Como curiosidade pessoal, profundamente imerso nas maravilhas da Astronomia, desbravando os segredos fascinantes do cosmos. :telescope::milky_way:
 
 * ### Se você deseja conhecer mais sobre mim e minha trajetória, convido você a explorar meu portfólio em [willian.social](https://willian.social/)💻.
 
