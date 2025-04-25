@@ -35,23 +35,6 @@
  </div>
   
   #
-  
-
-  <p align="left">
- 
- <a href="https://www.linkedin.com/in/wmds/" alt="Linkedin" target="_blank">
-  <img width="145px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(138, 99,241, 1)&link=https://www.linkedin.com/in/wmds/"/> 
- </a>
-
- <a href="mailto:willianmonteiro.me@gmail.com" alt="Gmail">
-  <img width="115px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(138, 99,241, 1)&link=mailto:mailto:willianmonteiro.me@gmail.com"/> 
- </a>
- 
- <a href="https://github.com/WillSantosss" alt="Portfolio">
-  <img width="125px" src="https://img.shields.io/badge/github-rgb(25, 27, 30)?style=for-the-badge&logo=github&logoColor=rgb(138, 99,241, 1)&link=https://github.com/WillSantosss"/>
- </a>
-
- </p>
 
 
   <p align="center" > 
